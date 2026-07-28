@@ -1,3 +1,5 @@
 {
-  "iosPath": "ios/App"
+    "ios": {
+        "path": "ios/App"
+    }
 }
