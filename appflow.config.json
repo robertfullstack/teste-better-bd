@@ -1,5 +1,5 @@
 {
-    "ios": {
-        "path": "ios/App"
-    }
+    "appId": "teste-better-bd",
+    "iosPath": "ios/App",
+    "androidPath": "android"
 }
